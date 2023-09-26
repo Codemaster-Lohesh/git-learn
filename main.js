@@ -1,3 +1,3 @@
 console.log('JS loaded')
 console.log('hello!')
-console.log('bro')
+console.log('br')
